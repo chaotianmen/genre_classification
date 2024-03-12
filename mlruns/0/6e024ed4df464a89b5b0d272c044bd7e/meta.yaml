@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/20230004/OneDrive%20-%20TU%20Eindhoven/Courses/Mlops/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/6e024ed4df464a89b5b0d272c044bd7e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e024ed4df464a89b5b0d272c044bd7e
+run_name: unruly-cow-206
+run_uuid: 6e024ed4df464a89b5b0d272c044bd7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710280659599
+status: 1
+tags: []
+user_id: jin

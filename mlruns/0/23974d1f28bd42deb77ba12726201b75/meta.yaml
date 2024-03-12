@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/20230004/OneDrive%20-%20TU%20Eindhoven/Courses/Mlops/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/23974d1f28bd42deb77ba12726201b75/artifacts
+end_time: 1710281503210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23974d1f28bd42deb77ba12726201b75
+run_name: serious-squid-68
+run_uuid: 23974d1f28bd42deb77ba12726201b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710281457800
+status: 4
+tags: []
+user_id: jin

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/20230004/OneDrive%20-%20TU%20Eindhoven/Courses/Mlops/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/366511579e7444c1b297def19200c202/artifacts
+end_time: 1710280615697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 366511579e7444c1b297def19200c202
+run_name: crawling-ram-120
+run_uuid: 366511579e7444c1b297def19200c202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710280613393
+status: 4
+tags: []
+user_id: jin
