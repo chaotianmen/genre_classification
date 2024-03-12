@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/20230004/OneDrive%20-%20TU%20Eindhoven/Courses/Mlops/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/4e62706cff514318a9dbb995287052e4/artifacts
+end_time: 1710279688052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e62706cff514318a9dbb995287052e4
+run_name: redolent-squid-270
+run_uuid: 4e62706cff514318a9dbb995287052e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710279685017
+status: 4
+tags: []
+user_id: jin

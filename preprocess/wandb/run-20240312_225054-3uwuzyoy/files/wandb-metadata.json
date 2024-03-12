@@ -1,0 +1,33 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.0",
+    "heartbeatAt": "2024-03-12T21:50:55.692122",
+    "startedAt": "2024-03-12T21:50:54.697376",
+    "docker": null,
+    "gpu": "Quadro T1000 with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "processed_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Data as processed"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/chaotianmen/genre_classification.git",
+        "commit": "a38c392e6f40e7a69b00a31d3f929d92256a5eec"
+    },
+    "email": "zijin.gu@foxmail.com",
+    "root": "/mnt/c/Users/20230004/OneDrive - TU Eindhoven/Courses/Mlops/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification",
+    "host": "tue030408",
+    "username": "jin",
+    "executable": "/home/jin/miniconda3/envs/mlflow-d70c86e65d546033e384235c2b66f3ad1fa86eb7/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/20230004/OneDrive%20-%20TU%20Eindhoven/Courses/Mlops/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/92da7128c0b0495e91dbf95d4de06d4c/artifacts
+end_time: 1710280263298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92da7128c0b0495e91dbf95d4de06d4c
+run_name: mysterious-jay-477
+run_uuid: 92da7128c0b0495e91dbf95d4de06d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710280216703
+status: 4
+tags: []
+user_id: jin

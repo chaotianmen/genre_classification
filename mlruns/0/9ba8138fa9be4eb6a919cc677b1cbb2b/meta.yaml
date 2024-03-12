@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/20230004/OneDrive%20-%20TU%20Eindhoven/Courses/Mlops/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/9ba8138fa9be4eb6a919cc677b1cbb2b/artifacts
+end_time: 1710279599763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ba8138fa9be4eb6a919cc677b1cbb2b
+run_name: classy-cod-975
+run_uuid: 9ba8138fa9be4eb6a919cc677b1cbb2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710279596978
+status: 4
+tags: []
+user_id: jin
